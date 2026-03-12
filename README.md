@@ -85,10 +85,11 @@ Je suis actuellement en recherche active d'un poste en **Support Helpdesk / IT S
 
 ## 🌍 Langues
 
-`Français` · `Anglais C1` · `Serbe C1`
+`Français` · `Anglais` · `Serbe`
 
 ---
 
 <div align="center">
   <sub>Portfolio construit en HTML / CSS / JavaScript · Déployé sur GitHub Pages</sub>
 </div>
+
